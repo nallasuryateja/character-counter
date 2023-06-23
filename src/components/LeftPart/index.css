@@ -1,0 +1,13 @@
+.bg-container-left {
+  background-color: #ffc533;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 100vh;
+  padding: 20px;
+}
+
+.para {
+  color: black;
+  text-align: left;
+}

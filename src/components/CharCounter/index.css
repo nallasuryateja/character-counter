@@ -1,0 +1,16 @@
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  width: 90vw;
+  padding: 10px;
+  margin: 5px;
+  height: 100vh;
+  text-align: center;
+}
+
+.l-part {
+  width: 50%;
+}
+.r-part {
+  width: 50%;
+}

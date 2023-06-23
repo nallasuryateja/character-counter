@@ -1,0 +1,35 @@
+.bg-container-right {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 100vh;
+  background-color: #0f172a;
+  padding: 20px;
+}
+
+.heading {
+  color: #ffc533;
+  font-weight: 300;
+  font-size: 30px;
+  text-align: center;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
+.input {
+  border-radius: 10px;
+  height: 30px;
+  outline: none;
+}
+.add-button {
+  background-color: #ffc533;
+  color: white;
+  text-align: center;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
